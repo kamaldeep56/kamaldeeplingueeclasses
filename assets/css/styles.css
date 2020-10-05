@@ -1,0 +1,21 @@
+.text-left {
+}
+
+div.jumbotron {
+  border-radius: 20px;
+  padding: 40px;
+  background-color: rgba(255,255,255,0.75);
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+@media (min-width: 576px) {
+  div.jumbotron {
+    padding: 20px;
+  }
+}
+
+div {
+  padding: 20px;
+}
+
